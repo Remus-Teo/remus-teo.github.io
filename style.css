@@ -1,0 +1,55 @@
+/* Global styles */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  color: #333;
+}
+
+/* Header section */
+header {
+  background-color: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+}
+
+/* Section layout */
+section {
+  background-color: white;
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Section headings */
+h2 {
+  color: #0077cc;
+  margin-bottom: 1rem;
+}
+
+/* Contact links */
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
